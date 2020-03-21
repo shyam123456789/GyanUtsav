@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_program"
+            android:icon="@drawable/ic_program"
+            android:title="@string/menu_program" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_gallery" />
+
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/ic_notification"
+            android:title="@string/menu_notification" />
+
+        <item
+            android:id="@+id/action_share"
+            android:icon="@drawable/ic_menu_share"
+            android:orderInCategory="100"
+            android:title="@string/menu_share"
+            app:showAsAction="always" />
+        <item
+
+            android:id="@+id/nav_aboutus"
+            android:icon="@drawable/ic_about"
+            android:title="@string/menu_aboutus" />
+        <item
+            android:id="@+id/nav_contactus"
+            android:icon="@drawable/ic_contact_mail_black_24dp"
+            android:title="@string/menu_contactus" />
+
+        <item
+            android:id="@+id/nav_faq"
+            android:icon="@drawable/ic_faq"
+            android:title="@string/menu_faq" />
+
+
+    </group>
+
+</menu>

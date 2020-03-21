@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "310694529284",
+    "firebase_url": "https://gyanutsav-f6ce8.firebaseio.com",
+    "project_id": "gyanutsav-f6ce8",
+    "storage_bucket": "gyanutsav-f6ce8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310694529284:android:e5a1e468cc998178cea851",
+        "android_client_info": {
+          "package_name": "com.gyanutsav.gyan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310694529284-cci5l7sur6iddbb8teko3n5kbe5fad14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gyanutsav.gyan",
+            "certificate_hash": "531b2797caab066c8341438b7fa7542f41ea3208"
+          }
+        },
+        {
+          "client_id": "310694529284-ci3fc4ogn5e4sbpo2c674dbfbahmk7u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUUPCOugefo5W_PzCPNBqm3bPV_LHAPvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310694529284-ci3fc4ogn5e4sbpo2c674dbfbahmk7u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
